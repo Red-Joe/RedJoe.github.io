@@ -1,1 +1,1 @@
-# https://github.com/Red-Joe/RedJoe.github.io
+# https://red-joe.github.io/RedJoe.github.io/
